@@ -13,7 +13,8 @@ GUI 기반의 도서 관리 프로그램입니다.
 * 대여 반납 기능
 * 사용자가 직관적으로 느낄수있는 GUI 개발
 
-
+***
+<br>
 
 
 <img width="845" alt="Screenshot_29" src="https://user-images.githubusercontent.com/73155761/113885693-fef4b400-97fa-11eb-8bd6-eea497a6f0e6.png">
