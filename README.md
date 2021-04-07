@@ -2,6 +2,7 @@
 GUI 기반의 도서 관리 프로그램입니다.
 
 <img width="887" alt="Screenshot_28" src="https://user-images.githubusercontent.com/73155761/113885683-fc925a00-97fa-11eb-9c23-3ceb8dd6e984.png">
+
 ## 관리 프로그램 (관리자 전용)
 
 ##### 관리자의 업무를 편하게 도와줄 기능을 고려하여 설계 개발하였습니다
@@ -16,6 +17,7 @@ GUI 기반의 도서 관리 프로그램입니다.
 
 
 <img width="845" alt="Screenshot_29" src="https://user-images.githubusercontent.com/73155761/113885693-fef4b400-97fa-11eb-8bd6-eea497a6f0e6.png">
+
 ## 검색 프로그램 (손님 전용)
 
 ##### 고객의 요구사항을 생각하며 개발했습니다.
